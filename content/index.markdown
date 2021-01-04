@@ -383,8 +383,7 @@ https://www.facebook.com/groups/opengraph/) or on
 http://groups.google.com/group/open-graph-protocol).
 It is currently being consumed by Facebook
 ([see their documentation](
-http://developers.facebook.com/docs/opengraph/)), Google ([see their documentation](
-https://developers.google.com/+/web/snippet/)), and
+http://developers.facebook.com/docs/opengraph/)), Google, and
 [mixi](
 http://developer.mixi.co.jp/en/connect/mixi_plugin/mixi_check/spec_mixi_check/).
 It is being published by IMDb, Microsoft, NHL, Posterous, Rotten Tomatoes,
